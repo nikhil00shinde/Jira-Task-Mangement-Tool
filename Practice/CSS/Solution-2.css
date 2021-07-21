@@ -1,0 +1,14 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+    height: 100vh;
+}
+div{
+    height: 10rem;
+    width: 10rem;
+    background-color: yellow;
+    margin: auto;
+    margin-top: calc( ( 100vh - 10rem ) / 2 );
+}
